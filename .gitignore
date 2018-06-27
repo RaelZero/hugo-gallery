@@ -1,8 +1,6 @@
 .DS_Store
 
 # Hugo ignores
-archetypes/
-data/
 themes/
 
 # Spaces ignores
