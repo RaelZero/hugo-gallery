@@ -2,6 +2,7 @@
 
 # Hugo ignores
 themes/
+public/
 
 # Spaces ignores
 static/img_spaces/
