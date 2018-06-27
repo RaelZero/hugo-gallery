@@ -1,0 +1,8 @@
+.DS_Store
+
+# Hugo ignores
+data/
+themes/
+
+# Spaces ignores
+static/img_spaces/
