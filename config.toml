@@ -11,8 +11,9 @@ enableRobotsTXT = "true"
   description = "Describe your website"
   copyright = "CC-BY-NC-SA 4.0 Lorenzo Angeli"
   sidebarAbout = [
-    "I'm nobody else but myself.",
-    "Originally from Venice, currently living in Trento, Italy."
+    "I'm a (somewhat long-time) hobbyist photographer. Welcome to my little gallery!",
+    "Do you like my pictures? Want to send me a message? Write me an email!",
+    "No social media, sorry ;)"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -44,7 +45,7 @@ enableRobotsTXT = "true"
 
   [params.social]
   email         = "lorenz ~dot~ angeli ~at~ gmail ~dot~ com"
-  github        = "https://www.github.com/RaelZero"
+  #github        = "https://www.github.com/RaelZero"
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
