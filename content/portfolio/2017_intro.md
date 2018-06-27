@@ -13,9 +13,12 @@ I started SCUBA diving, went to my first conference, graduated from my Master's,
 
 Places I've been to:
 
-- Trento
 - Paris
 - Berlin
 - Barcelona
 - Iceland
+- Graz
+- Pöllau
+- Montegrotto Terme
+- Milan
 - Delft
