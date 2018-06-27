@@ -1,5 +1,5 @@
 +++
 draft = false
-image = "img_spaces/gallery/"
+image = ""
 showonlyimage = true
 +++
