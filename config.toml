@@ -1,5 +1,5 @@
 baseurl = "https://gallery.oddworlds.org/"
-title = "Just a photo gallery"
+title = "Oddworlds Photo Gallery"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 enableRobotsTXT = "true"
@@ -34,6 +34,14 @@ enableRobotsTXT = "true"
   name = "Home"
   url = "portfolio/"
   home = true
+
+  [[params.navlinks]]
+  name = "2017"
+  url = "portfolio/2017"
+
+  [[params.navlinks]]
+  name = "2018"
+  url = "portfolio/2018"
 
 #  [[params.navlinks]]
 #  name = "About"
