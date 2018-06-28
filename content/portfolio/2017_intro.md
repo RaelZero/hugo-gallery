@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img_spaces/gallery/2017/P4020007.jpg"
+image = "2017/P4020007.jpg"
 showonlyimage = false
 title = "2017"
 +++
