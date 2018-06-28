@@ -15,6 +15,10 @@ enableRobotsTXT = "true"
     "Do you like my pictures? Want to send me a message? Write me an email!",
     "No social media, sorry ;)"
   ]
+
+  # Base URL of the object storage bucket where images are stored
+  bucketBaseURL = "https://oddworlds.ams3.digitaloceanspaces.com/gallery/"
+
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual

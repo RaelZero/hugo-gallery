@@ -1,7 +1,7 @@
 .DS_Store
 
 # Hugo ignores
-themes/
+themes/hugo-creative-portfolio-theme/exampleSite/
 public/
 
 # Spaces ignores
