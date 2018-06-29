@@ -1,12 +1,11 @@
 +++
 draft = false
 image = ""
-showonlyimage = false
+showonlyimage = true
 title = "2018"
 +++
 
 <!--more-->
-
 I started windsurfing and swing dancing.
 
 # [Go to pictures from 2018](/portfolio/2018/)
@@ -17,5 +16,5 @@ Places I've been to:
 - Paris
 - Madrid
 - Sofia
-- Castelferretti
+- Castelferretti (AN)
 - Budapest
