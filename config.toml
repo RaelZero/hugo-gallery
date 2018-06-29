@@ -5,21 +5,21 @@ languageCode = "en-us"
 enableRobotsTXT = "true"
 
 [params]
-  # Style options: default (pink), blue, green, pink, red, sea, violet
-  # Use custom.css for your custom styling
-  style = "green"
-  description = "Describe your website"
-  copyright = "CC-BY-NC-SA 4.0 Lorenzo Angeli"
-  sidebarAbout = [
+    # Style options: default (pink), blue, green, pink, red, sea, violet
+    # Use custom.css for your custom styling
+    style = "green"
+    description = "Describe your website"
+    copyright = "CC-BY-NC-SA 4.0 Lorenzo Angeli"
+    sidebarAbout = [
     "I'm a (somewhat long-time) hobbyist photographer. Welcome to my little gallery!",
     "Do you like my pictures? Want to send me a message? Write me an email!",
     "No social media, sorry ;)"
-  ]
+    ]
 
-  # Base URL of the object storage bucket where images are stored
-  bucketBaseURL = "https://oddworlds.ams3.digitaloceanspaces.com/gallery/"
+    # Base URL of the object storage bucket where images are stored
+    bucketBaseURL = "https://oddworlds.ams3.digitaloceanspaces.com/gallery/"
 
-  # Contact page
+    # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
      # email. Visitors can send up to a 1000 emails each month for free.
@@ -31,37 +31,45 @@ enableRobotsTXT = "true"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  # email = "gaz.gong@gmail.com"
+    # email = "gaz.gong@gmail.com"
 
-  # Nav links in the side bar
-  [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
-  home = true
+    # Nav links in the side bar
+    [[params.navlinks]]
+    name = "Home"
+    url = "portfolio/"
+    home = true
 
-  [[params.navlinks]]
-  name = "2017"
-  url = "portfolio/2017"
+    [[params.navlinks]]
+    name = "2018"
+    url = "portfolio/2018"
 
-  [[params.navlinks]]
-  name = "2018"
-  url = "portfolio/2018"
+    [[params.navlinks]]
+    name = "2017"
+    url = "portfolio/2017"
 
-#  [[params.navlinks]]
-#  name = "About"
-#  url = "about/"
+    [[params.navlinks]]
+    name = "2016"
+    url = "portfolio/2016"
 
-#  [[params.navlinks]]
-#  name = "Get in touch"
-#  url = "contact/"
+    [[params.navlinks]]
+    name = "2015 and earlier"
+    url = "portfolio/2015"
 
-  [params.social]
-  email         = "lorenz ~dot~ angeli ~at~ gmail ~dot~ com"
-  #github        = "https://www.github.com/RaelZero"
-  #facebook      = "full page or profile url in facebook"
-  #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
-  #linkedin      = "full profile url in linkedin"
-  #stackoverflow = "full profile url in stackoverflow"
-  #instagram     = "full profile url in instagram"
-  #youtube       = "full profile url in youtube"
+    #  [[params.navlinks]]
+    #  name = "About"
+    #  url = "about/"
+
+    #  [[params.navlinks]]
+    #  name = "Get in touch"
+    #  url = "contact/"
+
+    [params.social]
+    email         = "lorenz ~dot~ angeli ~at~ gmail ~dot~ com"
+    #github        = "https://www.github.com/RaelZero"
+    #facebook      = "full page or profile url in facebook"
+    #googleplus    = "full profile url in googleplus"
+    #twitter       = "full profile url in twitter"
+    #linkedin      = "full profile url in linkedin"
+    #stackoverflow = "full profile url in stackoverflow"
+    #instagram     = "full profile url in instagram"
+    #youtube       = "full profile url in youtube"

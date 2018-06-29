@@ -5,6 +5,7 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>{{ .Title }}</h1>
+         <p><img src="{{.Site.Params.bucketBaseURL}}{{ .Page.Params.image }}" alt="" class="img-responsive"></p>
          {{ .Content }}
          {{ template "_internal/disqus.html" . }}
       </div>

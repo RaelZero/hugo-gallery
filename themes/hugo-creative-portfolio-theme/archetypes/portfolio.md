@@ -5,4 +5,3 @@ showonlyimage = true
 +++
 
 <!--more-->
-![picture]({{.Site.Params.bucketBaseURL}}{{ .Params.image }})
