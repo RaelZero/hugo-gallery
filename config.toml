@@ -8,11 +8,11 @@ enableRobotsTXT = "true"
     # Style options: default (pink), blue, green, pink, red, sea, violet
     # Use custom.css for your custom styling
     style = "green"
-    description = "Describe your website"
-    copyright = "CC-BY-NC-SA 4.0 Lorenzo Angeli"
+    description = "A small picture gallery."
+    copyright = "CC-BY 4.0 Lorenzo Angeli"
     sidebarAbout = [
-    "I'm a (somewhat long-time) hobbyist photographer. Welcome to my little gallery!",
-    "Do you like my pictures? Want to send me a message? Write me an email!",
+    "I'm a (somewhat long-time) hobby photographer. Welcome to my gallery!",
+    "Do you like my pictures? Want a higher resolution file? Write me an email!",
     "No social media, sorry ;)"
     ]
 
@@ -64,7 +64,7 @@ enableRobotsTXT = "true"
     #  url = "contact/"
 
     [params.social]
-    email         = "lorenz ~dot~ angeli ~at~ gmail ~dot~ com"
+    email         = "lorenz ~d~ angeli ~a~ gmail ~d~ com"
     #github        = "https://www.github.com/RaelZero"
     #facebook      = "full page or profile url in facebook"
     #googleplus    = "full profile url in googleplus"
