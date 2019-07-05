@@ -40,6 +40,10 @@ enableRobotsTXT = "true"
     home = true
 
     [[params.navlinks]]
+    name = "2019"
+    url = "portfolio/2019"
+
+    [[params.navlinks]]
     name = "2018"
     url = "portfolio/2018"
 

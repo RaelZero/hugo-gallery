@@ -13,9 +13,13 @@ I started windsurfing and swing dancing.
 
 Places I've been to:
 
-- Trento
 - Paris
-- Madrid
-- Sofia
 - Castelferretti (AN)
 - Budapest
+- Madrid
+- Speyer
+- Strasbourg
+- Ebersberg
+- Helsinki
+- Eindhoven
+- Nice
