@@ -1,6 +1,6 @@
 +++
 draft = false
-image = ".jpg"
+image = "2019/P2240020.jpg"
 showonlyimage = false
 title = "2019"
 +++
