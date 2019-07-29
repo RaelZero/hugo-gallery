@@ -17,7 +17,7 @@ enableRobotsTXT = "true"
     ]
 
     # Base URL of the object storage bucket where images are stored
-    bucketBaseURL = "https://oddworlds.ams3.digitaloceanspaces.com/gallery/"
+    bucketBaseURL = "https://static.oddworlds.org/gallery/"
 
     # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
